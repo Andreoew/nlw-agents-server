@@ -15,6 +15,13 @@
       "when": 1751982497035,
       "tag": "0001_optimal_rage",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752085951026,
+      "tag": "0002_chilly_peter_parker",
+      "breakpoints": true
     }
   ]
 }
